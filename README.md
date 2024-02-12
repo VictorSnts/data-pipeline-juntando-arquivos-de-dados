@@ -1,5 +1,5 @@
 # data-pipeline-juntando-arquivos-de-dados
-Projeto desenvolvido no curso "Pipeline de dados - combinando Python e orientação a objeto" da Alura
+Projeto desenvolvido no curso "Pipeline de dados - combinando Python e orientação a objeto" da Alura que resultou em um pipeline de dados para a juncao de arquivos de formatos e estruturas diferentes em um unico arquivo final.
 
 ### Curso - Pipeline de dados: combinando Python e orientação a objeto
 
